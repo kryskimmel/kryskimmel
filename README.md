@@ -1,16 +1,25 @@
-### Hi there 👋
+<div id=header align="center">
+  <img src="https://media.giphy.com/media/2YiSwVGIq2pHKW0ttL/giphy.gif" align="left" height="200"/>
+  <img src="https://media.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif" align="center" height="200" width="250"/>
+  <img src="https://media.giphy.com/media/2YiSwVGIq2pHKW0ttL/giphy.gif" align="right" height="200"/>
+</div>
 
-<!--
-**kryskimmel/kryskimmel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id=name align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E5289E&vCenter=true&random=false&width=500&height=150&lines=Hi%2C+i'm+Krystal" alt="Typing SVG" /></a>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+### ⭐️ GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kryskimmel&show_icons=true&theme=synthwave&hide_rank=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kryskimmel&layout=compact)
+
+
+### 📈 Activity Graph
+[![Ashton's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kryskimmel&theme=tokyo-night)](https://github.com/kryskimmel/github-readme-activity-graph)
