@@ -13,7 +13,3 @@
 ### ⭐️ GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kryskimmel&show_icons=true&theme=tokyonight&hide_rank=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kryskimmel&layout=compact)
-
-
-### 📈 Activity Graph
-[![Ashton's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kryskimmel&theme=tokyo-night)](https://github.com/kryskimmel/github-readme-activity-graph)
