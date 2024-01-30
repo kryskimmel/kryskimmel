@@ -23,19 +23,55 @@
   <h3>Languages</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,py,html,css" />
+      <img src="https://skillicons.dev/icons?i=js" title="javascript"/>
+    </a>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=py" title="python"/>
+    </a>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html" title="html"/>
+    </a>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=css" title="css"/>
     </a>
   </p>
   <h3>Frameworks + Libraires</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=flask,express,react,redux" />
+      <img src="https://skillicons.dev/icons?i=flask" title="flask"/>
+    </a>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=express" title="express"/>
+    </a>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react" title="react"/>
+    </a>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=redux" title="redux"/>
     </a>
   </p>
   <h3>Tools</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vscode,github,git,postman,sqlite,sequelize,postgres" />
+      <img src="https://skillicons.dev/icons?i=vscode" title="vscode"/>
+    </a>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=github" title="github"/>
+    </a>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git" title="git"/>
+    </a>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=postman" title="postman"/>
+    </a>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=sqlite" title="sqlite"/>
+    </a>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=sequelize" title="sequelize"/>
+    </a>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=postgres" title="postgres"/>
     </a>
   </p>
 </div>
