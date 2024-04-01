@@ -5,9 +5,44 @@
 </div>
 
 <div id=name align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E5289E&center=true&vCenter=true&random=false&width=500&height=150&lines=Hi%2C+Welcome+to+my+page." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70a5fd&center=true&vCenter=true&random=false&width=500&height=150&lines=Hi%2C+Welcome+to+my+page." alt="Typing SVG" /></a>
 </div>
 
+<div align="center">
+<table>
+  <tr>
+      <td>
+        <div align="center">
+          <h3>Languages</h3>
+          <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/fff" title="javascript" alt="javascript" />
+          <img height="40" width="40" src="https://cdn.simpleicons.org/python/fff" title="python" alt="python" />
+          <img height="40" width="40" src="https://cdn.simpleicons.org/HTML5/fff" title="html" alt="html" />
+          <img height="40" width="40" src="https://cdn.simpleicons.org/CSS3/fff" title="css" alt="css" />
+        </div>
+      </td>
+      <td>
+          <div align="center">
+            <h3>Frameworks + Libraires</h3>
+          	<img height="40" width="40" src="https://cdn.simpleicons.org/react/fff" title="react" alt="react" />
+            <img height="40" width="40" src="https://cdn.simpleicons.org/express/fff" title="express" alt="express" />
+            <img height="40" width="40" src="https://cdn.simpleicons.org/flask/fff" title="flask" alt="flask" />
+            <img height="40" width="40" src="https://cdn.simpleicons.org/redux/fff" title="redux" alt="redux" />
+          </div>
+      </td>
+      <td>
+        <div align="center">
+          <h3>Tools</h3>
+          <img height="40" width="40" src="https://cdn.simpleicons.org/github/fff" title="github" alt="github" />
+          <img height="40" width="40" src="https://cdn.simpleicons.org/git/fff" title="git" alt="git" />
+          <img height="40" width="40" src="https://cdn.simpleicons.org/postgreSQL/fff" title="postgreSQL" alt="postgreSQL" />
+          <img height="40" width="40" src="https://cdn.simpleicons.org/sequelize/fff" title="sequelize" alt="sequelize" />
+          <img height="40" width="40" src="https://cdn.simpleicons.org/sqlite/fff" title="sqlite" alt="sqlite" />
+          <img height="40" width="40" src="https://cdn.simpleicons.org/postman/fff" title="postman" alt="postman" />
+        </div> 
+      </td>
+  </tr>
+</table>
+</div>
 
 <div align="center">
   <h3>⭐️ GitHub Stats ⭐️</h3>
@@ -18,60 +53,4 @@
       <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kryskimmel&layout=compact&langs_count=8&card_width=320" />
     </a>
 </div>
-
-<div align="center">
-  <h3>Languages</h3>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js" title="javascript"/>
-    </a>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py" title="python"/>
-    </a>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html" title="html"/>
-    </a>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=css" title="css"/>
-    </a>
-  </p>
-  <h3>Frameworks + Libraires</h3>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=flask" title="flask"/>
-    </a>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=express" title="express"/>
-    </a>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react" title="react"/>
-    </a>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=redux" title="redux"/>
-    </a>
-  </p>
-  <h3>Tools</h3>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vscode" title="vscode"/>
-    </a>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=github" title="github"/>
-    </a>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git" title="git"/>
-    </a>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=postman" title="postman"/>
-    </a>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=sqlite" title="sqlite"/>
-    </a>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=sequelize" title="sequelize"/>
-    </a>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=postgres" title="postgres"/>
-    </a>
-  </p>
-</div>
+    
